@@ -8,22 +8,17 @@ body {
 }
 
 h1 {
-    color: ;
-    border: ;
+    font-family: 'Aref Ruqaa', serif;
+    border: none;
     text-align: ;
     font-size: 20px;
-    font-family: ;
-    padding: px;
-    margin: none;
 }
 
 h2 {
+    font-family: 'Aref Ruqaa', serif;
     border: none;
     text-align: ;
     font-size: 15px;
-    font-family: ;
-    padding: px;
-    margin: px;
 }
 
 p {
