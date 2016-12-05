@@ -34,14 +34,14 @@ h1 {
     font-family: 'Aref Ruqaa', serif;
     border: none;
     text-align: ;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 h2 {
     font-family: 'Aref Ruqaa', serif;
     border: none;
     text-align: ;
-    font-size: 15px;
+    font-size: 25px;
 }
 
 h3 {
@@ -62,7 +62,7 @@ h6 {
 
 p {
     font-family: 'Aref Ruqaa', serif;
-    font-size: 12px;
+    font-size: 20px;
     line-height: 1;
 }
 
