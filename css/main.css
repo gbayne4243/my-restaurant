@@ -1,18 +1,20 @@
-/*** sectioning elements ***/
 body {
     background-color: #f24330;
 }
 
 header {
-
+text-align: center;
 }
 
 main {
+text-align: center;
 
 }
 
 footer {
-
+text-align: center;
+font-family: 'Aref Ruqaa', serif;
+color: #ffffff
 }
 
 nav {
@@ -32,15 +34,19 @@ aside {
 
 h1 {
     font-family: 'Aref Ruqaa', serif;
+    color: #ffffff;
+    text-decoration: underline;
     border: none;
-    text-align: ;
+    text-align: center;
     font-size: 30px;
 }
 
 h2 {
     font-family: 'Aref Ruqaa', serif;
+    color: #ffffff;
+    text-decoration: underline;
     border: none;
-    text-align: ;
+    text-align: center;
     font-size: 25px;
 }
 
@@ -62,8 +68,18 @@ h6 {
 
 p {
     font-family: 'Aref Ruqaa', serif;
+    text-align: center;
+    color: #ffffff;
     font-size: 20px;
     line-height: 1;
+}
+
+p2{
+  font-family: 'Aref Ruqaa', serif;
+  text-align: center;
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 1;
 }
 
 blockquote {
@@ -105,25 +121,35 @@ td {
 
 img  {
 max-width: 100%;
+align-content: center;
 }
 
 
 /*** link styles ***/
 
 a:link {
- color: #ff6600;
+ color: #000000;
+ font-size: 20px;
+ font-family: 'Aref Ruqaa', serif;
+ text-align: center;
+ text-decoration: underline;
     text-decoration: none;
 }
 
 a:visited {
- color: #ff33cc;
+ color: #000000;
+ text-decoration: underline;
+ text-align: center;
 }
 
 a:hover {
  color: #cc9900;
+ text-align: center;
     text-decoration: underline;
 }
 
 a:active {
  color: #ff0000;
+ text-align: center;
+ text-decoration: underline;
 }
